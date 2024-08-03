@@ -1,3 +1,22 @@
+Website Masjid dengan menggunakan laravel 11 dan filament 3
+<br>
+<br>
+Syarat
+1. PHP 8.2 / 8.3
+<br>
+<br>
+Installasi<br>
+1. clone repository<br>
+2. Copy .env.example dan rename jadi .env<br>
+3. Sesuaikan user, password dan nama database di .env<br>
+4. buka terminal dan arahkan ke folder project<br>
+5. ketik php artisan key:generate<br>
+6. ketik composer install<br>
+7. ketik php artisan storage:link<br>
+8. ketik php artisan migrate:fresh --seed<br>
+9. ketik php artisan serve<br>
+<img src="https://raw.githubusercontent.com/firmanms/masjidprofil/main/masjid2.jpeg" width="100%">
+<img src="https://raw.githubusercontent.com/firmanms/masjidprofil/main/masjid1.jpeg" width="100%">
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
