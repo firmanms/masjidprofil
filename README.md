@@ -15,7 +15,7 @@ Installasi<br>
 7. ketik php artisan storage:link<br>
 8. ketik php artisan migrate:fresh --seed<br>
 9. ketik php artisan serve<br>
-<img src="https://raw.githubusercontent.com/firmanms/masjidprofil/main/masjid.jpeg" width="100%">
+<img src="https://raw.githubusercontent.com/firmanms/masjidprofil/main/masjid.png" width="100%">
 <img src="https://raw.githubusercontent.com/firmanms/masjidprofil/main/masjid2.jpeg" width="100%">
 <img src="https://raw.githubusercontent.com/firmanms/masjidprofil/main/masjid1.jpeg" width="100%">
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
