@@ -20,6 +20,7 @@ class DatabaseSeeder extends Seeder
             SliderSeeder::class,
             PengurusSeeder::class,
             IklanSeeder::class,
+            HalamanSeeder::class,
             MenuSeeder::class,
         ]);
     }
